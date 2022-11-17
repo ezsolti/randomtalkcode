@@ -13,6 +13,8 @@ The scripts are written from scratch or based on openly available code. Referenc
 - RandomNumberGenerator: implementing a simple LCG and visualizing it's cycle. Plots inspired by A. Haghighat: Monte Carlo Methods for particle transport, CRC Press (2020). Furthermore, some testing of randomness is covered.
 - RandomWalk: Implementing a 2D random walk, and comparing to deterministic solution. Inspired by https://www.coursera.org/learn/modeling-simulation-natural-processes
 - FluidDynamicsLBM: Fluid dynamics simulation based on https://palabos.unige.ch/get-started/lattice-boltzmann/lattice-boltzmann-sample-codes-various-other-programming-languages/, only additional obstacles have been added.
+- pi.dat is the first million digits of pi (https://stuff.mit.edu/afs/sipb/contrib/pi/)
+- truerandom.dat is 1000 true random numbers obtained from random.org
 
 ## Dependencies
 
