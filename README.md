@@ -1,6 +1,6 @@
 # randomtalkcode
 
-small pieces of code used to create animations and figures for a [talk about randomness](ezsolti.github.io/randomtalk).
+small pieces of code used to create animations and figures for a [talk about randomness](https://ezsolti.github.io/randomtalk/).
 
 The scripts are written from scratch or based on openly available code. References are included within the notebooks.
 
